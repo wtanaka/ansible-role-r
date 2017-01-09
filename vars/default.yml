@@ -1,3 +1,4 @@
 ---
 package_names:
 - r-base
+- libcurl4-openssl-dev
